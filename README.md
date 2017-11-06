@@ -4,4 +4,4 @@
 ##### Paper: DeepStory: Video Story QA by Deep Embedded Memory Networks (https://arxiv.org/abs/1707.00836) (IJCAI 2017)
 
 You can download the whole video clips with the fowlloing url.
-Video (scene-dialogue pairs): http://147.46.215.100:5000/sharing/M64e5Sav9
+http://147.46.215.100:5000/sharing/M64e5Sav9
