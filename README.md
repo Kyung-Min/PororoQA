@@ -29,7 +29,7 @@ Characteristic of “Pororo”, children's cartoon video series
 * Average number of words in our dataset depend on the first word in the question
 ![Alt text](/images/Average_QA_words.png)
 * Comparison of various public datasets in terms of video story analysis
-![Alt text](/images/PororoQA_stat_comparison.png)
+![Alt text](/images/PororoQA_stat_comparison1.png)
 
 ## Data Statistics – Scene Descriptions
 * 27,328 scene descriptions
