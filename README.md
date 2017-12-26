@@ -4,8 +4,8 @@
 ##### Paper1: DeepStory: Video Story QA by Deep Embedded Memory Networks (https://arxiv.org/abs/1707.00836) (IJCAI 2017)
 ##### Paper2: PororoQA: A Cartoon Video Series Dataset for Story Understanding (NIPS 2016 Workshop on Large Scale Computer Vision System, 2016)
 
-You can download the whole video clips with the fowlloing url.
-http://147.46.215.100:5000/sharing/MrDZ9H6ro
+## Download Video Clips
+You can download the whole Pororo video clips with [this URL](http://147.46.215.100:5002/fsdownload/bNbV949jU/Scenes_Dialogues). 
 
 ## Why cartoon video seires?
 Characteristic of “Pororo”, children's cartoon video series
