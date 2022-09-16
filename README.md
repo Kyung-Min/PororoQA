@@ -5,7 +5,7 @@
 ##### Paper2: PororoQA: A Cartoon Video Series Dataset for Story Understanding (NIPS 2016 Workshop on Large Scale Computer Vision System, 2016)
 
 ## Download Video Clips
-You can download the whole Pororo video clips with [this URL](http://147.46.215.100:5002/fsdownload/bNbV949jU/Scenes_Dialogues).   
+You can download the whole Pororo video clips with [this URL](https://drive.google.com/file/d/1c5VnCP-c6-9aSX_X47RZtt3OSpANnYgw/view?usp=sharing).   
 If this link doesn't work, please email me kyungmin.kim.ml@navercorp.com
 
 ## Why cartoon video seires?
